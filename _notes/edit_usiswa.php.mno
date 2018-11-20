@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_usiswa" value="name:s_id;datatype:int,name:s_nis;datatype:string,name:s_password;datatype:string,name:s_nama;datatype:string,name:s_nonaktif;datatype:string" />
+</info>

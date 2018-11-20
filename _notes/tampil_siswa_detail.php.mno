@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:s_id;datatype:int,name:s_nis;datatype:string,name:s_password;datatype:string,name:s_nama;datatype:string,name:s_tmp_lahir;datatype:string,name:s_tgl_lhr;datatype:date,name:s_jk;datatype:string,name:s_nm_ortu;datatype:string,name:s_pek_ortu;datatype:string,name:s_alamat;datatype:string,name:s_agama;datatype:string,name:s_gdarah;datatype:string,name:s_thn_masuk;datatype:int,name:s_kelas;datatype:string,name:s_nonaktif;datatype:string" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+</info>

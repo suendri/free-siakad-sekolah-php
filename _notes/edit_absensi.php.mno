@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_absen" value="name:a_id;datatype:int,name:a_id_siswa;datatype:int,name:a_id_tahun;datatype:int,name:a_sakit;datatype:int,name:a_izin;datatype:int,name:a_alpha;datatype:int,name:s_id;datatype:int,name:u_nama;datatype:string" />
+</info>

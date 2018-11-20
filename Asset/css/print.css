@@ -1,0 +1,46 @@
+/*------------------------------------------------------------------------
+ * Program ini adalah program Donasi http://phpbego.wordpress.com
+ * Anda hanya saya minta sedikit donasi untuk program ini, tidak lebih.
+ * Jika anda menghargai program saya, silakan anda hubungi saya di 
+
+ * -------------------------------------------------------------------
+ * 085263616901 atau email phpbego@yahoo.co.id, phpbego@gmail.com
+ * -------------------------------------------------------------------
+ *
+ * Rebuild with Bootstrap 2.3.2 Custom
+ * 7 Juni 2013
+ */
+ 
+/* Garis */
+hr { 
+	border: 0; 
+	height: 1px; 
+	background: #333; 
+	background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
+	background-image: -moz-linear-gradient(left, #ccc, #333, #ccc); 
+	background-image: -ms-linear-gradient(left, #ccc, #333, #ccc); 
+	background-image: -o-linear-gradient(left, #ccc, #333, #ccc); 
+}
+/* Grid Table */
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#000000;
+	border-width: 1px;
+	border-color: #000000;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	background-color: #000;
+	color:#fff;	
+	border-width: 1px;	
+	border-style: solid;	
+	border-color: black;	
+	padding: 8px;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 4px;
+	border-style: solid;
+	border-color: black;
+}

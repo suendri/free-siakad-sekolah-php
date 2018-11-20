@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_kelas" value="name:k_id;datatype:int,name:k_kd;datatype:string,name:k_nm;datatype:string,name:k_wali;datatype:string,name:k_nonaktif;datatype:string" />
+	<infoitem key="UD_rec_list_wali" value="name:g_id;datatype:int,name:g_nip;datatype:string,name:g_password;datatype:string,name:g_nama;datatype:string,name:g_tmp_lhr;datatype:string,name:g_tgl_lhr;datatype:date,name:g_jk;datatype:string,name:g_kota;datatype:string,name:g_alamat;datatype:string,name:g_agama;datatype:string,name:g_status;datatype:string,name:g_nonaktif;datatype:string" />
+</info>

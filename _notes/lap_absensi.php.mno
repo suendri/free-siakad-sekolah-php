@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_list_tahun" value="name:t_id;datatype:int,name:t_nm;datatype:string,name:t_jn;datatype:string,name:t_nonaktif;datatype:string" />
+	<infoitem key="UD_rec_list_kelas" value="name:k_id;datatype:int,name:k_kd;datatype:string,name:k_nm;datatype:string,name:k_wali;datatype:string,name:k_nonaktif;datatype:string" />
+</info>

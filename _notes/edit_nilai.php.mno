@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_nilai" value="name:n_id;datatype:int,name:n_nis;datatype:string,name:n_id_thn;datatype:int,name:n_id_jadwal;datatype:string,name:n_harian;datatype:int,name:n_tugas;datatype:int,name:n_uts;datatype:int,name:n_uas;datatype:int" />
+	<infoitem key="UD_rec_tampil_siswa" value="name:n_nis;datatype:string,name:s_nis;datatype:string,name:u_nama;datatype:string" />
+	<infoitem key="UD_rec_tampil_tahun" value="name:n_id_thn;datatype:int,name:t_id;datatype:int,name:t_nm;datatype:string,name:t_jn;datatype:string" />
+	<infoitem key="UD_rec_tampil_jadwal" value="name:n_id_jadwal;datatype:string,name:j_id;datatype:int,name:j_kd_mapel;datatype:string,name:m_kode;datatype:string,name:m_nama;datatype:string" />
+</info>

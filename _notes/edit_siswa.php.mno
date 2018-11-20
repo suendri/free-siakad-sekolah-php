@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_siswa" value="name:s_id;datatype:int,name:s_nis;datatype:string,name:u_uname;datatype:string,name:u_pass;datatype:string,name:u_nama;datatype:string,name:s_tmp_lahir;datatype:string,name:s_tgl_lhr;datatype:date,name:s_jk;datatype:string,name:s_nm_ortu;datatype:string,name:s_pek_ortu;datatype:string,name:s_alamat;datatype:string,name:s_agama;datatype:string,name:s_gdarah;datatype:string,name:s_thn_masuk;datatype:int,name:s_kd_kls;datatype:string,name:nonaktif;datatype:string" />
+	<infoitem key="UD_rec_list_kelas" value="name:k_id;datatype:int,name:k_kd;datatype:string,name:k_nm;datatype:string,name:k_wali;datatype:string,name:k_nonaktif;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_tampil_uguru" value="name:g_id;datatype:int,name:g_nip;datatype:string,name:g_password;datatype:string,name:g_nama;datatype:string,name:g_nonaktif;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_tambah_admin" value="name:u_id;datatype:int,name:u_uname;datatype:string,name:u_pass;datatype:string,name:u_nonaktif;datatype:string" />
+</info>

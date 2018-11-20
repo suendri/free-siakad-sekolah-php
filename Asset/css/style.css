@@ -1,0 +1,154 @@
+/**
+ * Page Layout oleh PHPBeGo
+ * Ditambahkan untuk Custom Style Pendamping Bootstrap
+ * Mulai dari veri 2.0
+ *
+ * Perbaikan Ulang versi 3.0
+ */
+
+body {
+  margin: 0;
+  background-color:#e7ebf2;
+  font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+  font-size: 14px;
+}
+
+.space { height: 50px;}
+
+.title-layout {
+	color: #ffffff;
+	text-align: center;
+	margin-right: 30px;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.title-abu { color: #CCC; }
+
+table {
+  font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+  font-size: 14px;
+}
+
+.table-form td {
+  padding: 4px;
+}
+
+/** Style layout Halaman Utama */
+.main-layout {
+	background-color:#ffffff;
+        border: 1px solid #CCC;
+}
+
+.main-header {
+	background-image: url(../../Asset/images/hero.png);
+	background-color: #026fa6;
+        border-bottom: 1px solid #CCC;
+		padding: 6px;
+}
+
+.main-menu {
+	background-color: #0088cc;
+        padding-left: 185px;        
+}
+
+.main-konten {
+	padding: 12px;
+}
+
+/*
+ * Callouts
+ *
+ * Not quite alerts, but custom and helpful notes for folks reading the docs.
+ * Requires a base and modifier class.
+ */
+
+/* Common styles for all types */
+.bs-callout {
+  margin: 10px 0;
+  padding: 10px 30px 15px 15px;
+  border-left: 5px solid #eee;
+}
+
+.bs-callout h4 {
+  margin-top: 0;
+}
+
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
+}
+
+/* Variations */
+.bs-callout-danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+}
+
+.bs-callout-warning {
+  background-color: #fefbed;
+  border-color: #f1e7bc;
+}
+
+.bs-callout-info {
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
+}
+
+/* Judul style */
+.judul {
+  margin: 10px 0;
+  padding: 0 6px 1px 6px;
+  border: 1px solid #d0e3f0;
+  border-left: 5px solid #d0e3f0;
+  background-color: #f0f7fd;
+}
+
+/*
+ * Menampilkan Avatar
+ * Ditambahkan pada versi 3.0
+ */
+.cover-avatar {
+ float: left;
+ background: #fff;
+ padding: 3px;
+ position: absolute;
+ margin-top: -110px;
+ margin-left: 8px;
+ box-shadow: 0px 1px 1px #CCC;
+ width: 166px;
+ cursor: pointer;
+}
+
+.cover-avatar > a > img {
+    width: 160px;
+    height: 160px;
+}
+
+/* Input File style */
+input[type="file"] {
+  border: 1px solid #CCC;
+  padding: 6px;
+}
+
+/* Footer Layout */
+.footer-layout	{
+  margin: 2px auto;
+  padding: 10px;
+  border: 1px solid #CCC;
+  background-color: #f0f7fd;
+  font-size: 12px;
+ }
+ 
+ /* Fancybox Show */
+ .fancyShow img {
+     margin: 2px;
+     padding: 4px;
+     width: 160px;
+     height: 160px;
+     background: #fff;
+     border: 1px solid #CCC;
+ }

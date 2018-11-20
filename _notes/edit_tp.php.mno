@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_tp" value="name:t_id;datatype:int,name:t_nm;datatype:string,name:t_jn;datatype:string,name:t_nonaktif;datatype:string" />
+</info>

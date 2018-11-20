@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^index$ index.php? [L]
+RewriteRule ^signin$ login.php [L]
+
+Options All -Indexes
+</IfModule>

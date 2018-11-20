@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_peg" value="name:p_id;datatype:int,name:p_nip;datatype:string,name:p_nama;datatype:string,name:p_tmp_lhr;datatype:string,name:p_tgl_lhr;datatype:date,name:p_jk;datatype:string,name:p_alamat;datatype:string,name:p_agama;datatype:string,name:p_status;datatype:string,name:nonaktif;datatype:string" />
+</info>

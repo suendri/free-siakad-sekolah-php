@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_mp" value="name:m_id;datatype:int,name:m_kode;datatype:string,name:m_nama;datatype:string,name:m_nonaktif;datatype:string" />
+</info>

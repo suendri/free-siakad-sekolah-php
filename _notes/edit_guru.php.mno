@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_guru" value="name:g_id;datatype:int,name:g_nip;datatype:string,name:g_password;datatype:string,name:g_nama;datatype:string,name:g_tmp_lhr;datatype:string,name:g_tgl_lhr;datatype:date,name:g_jk;datatype:string,name:g_alamat;datatype:string,name:g_agama;datatype:string,name:g_status;datatype:string,name:g_nonaktif;datatype:string" />
+</info>
